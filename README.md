@@ -30,8 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kumarsaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumarsaa" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techbitsarmy&show_icons=true&locale=en&layout=compact" alt="techbitsarmy" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techbitsarmy&show_icons=true&locale=en" alt="techbitsarmy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techbitsarmy&" alt="techbitsarmy" /></p>

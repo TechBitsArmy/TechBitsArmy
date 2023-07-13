@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm Bharat Kumar</h1>
+# Hi 👋, I'm Bharat Kumar
 =========================================
-<h3 align="left">Web Developer</h3>
+## Web Developer
 ------------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techbitsarmy&label=Profile%20views&color=0e75b6&style=flat" alt="techbitsarmy" /> </p>

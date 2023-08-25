@@ -11,8 +11,8 @@
 
 <a href="https://www.twitter.com/bharat12kumar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bharat12kumar?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
-/></a><a href="https://www.github.com/techbitsarmy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/techbitsarmy?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+/></a><a href="https://github.com/glitch-io" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/glitch-io?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
 ### Socials
 <p align="left">

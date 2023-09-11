@@ -1,7 +1,7 @@
 # Hi 👋, I'm Bharat Kumar
 ## Web Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techbitsarmy&label=Profile%20views&color=0e75b6&style=flat" alt="techbitsarmy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=glitch-io&label=Profile%20views&color=0e75b6&style=flat" alt="glitch-io" /> </p>
 
 - 🔭 I’m currently working on [TechBits](https://thetechbits.in/)
 - 🌱 I’m currently learning **ReactJs**
@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/glitch-io?logo=github&style=for-the
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/techbitsarmy"><img src="https://github-readme-stats.vercel.app/api?username=techbitsarmy&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="TechBitsArmy's GitHub stats" /></a>
+<a href="http://www.github.com/glitch-io"><img src="https://github-readme-stats.vercel.app/api?username=glitch-io&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="TechBitsArmy's GitHub stats" /></a>
 
 ### Support Me
 <p><a href="https://www.buymeacoffee.com/kumarsaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumarsaa" /></a></p><br><br>
